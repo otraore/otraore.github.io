@@ -2,8 +2,8 @@
 title: Ousmane-Traore
 description: 'Software developer and proud Gopher'
 url: 'https://ousmane.me'
-baseurl: '/'
-# google_analytics: 'UA-XXXXXX-X'
+baseurl: ''
+google_analytics: 'UA-169827485-1'
 # disqus_shortname: 'your-disqus-name'
 
 author:
